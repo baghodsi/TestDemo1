@@ -1,0 +1,16 @@
+.line {
+  width: 20px;
+  height: 2px;
+  background-color: black;
+  margin: 6px 0;
+}
+.sidebar {
+  padding: 15px 8px 5px 6px;
+  top: 0;
+  left: 0;
+  background-color: rgb(82, 120, 247);
+}
+.search{
+  background:transparent; 
+  border:none;
+}

@@ -1,0 +1,12 @@
+
+.sidebar {
+  padding: 10px 8px 5px 6px;
+  top: 0;
+  left: 0;
+  text-transform: uppercase;
+  background-color: rgb(132, 154, 226);
+}
+.search{
+  background:transparent; 
+  border:none;
+}
